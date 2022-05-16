@@ -8,6 +8,7 @@ public class Sample {
 		}
 		System.out.println("Original string:" + str1);
 		System.out.println("reverse string:" + str2);
+		Sytem.out.println("  ");
 
 }
 }
